@@ -31,14 +31,12 @@ This repository mainly collects papers from the following venues:
 | [Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model](https://doi.org/10.1007/978-3-032-05114-1_41) | MICCAI 2025 | Ophthalmic surgical video generation | Text-guided progressive video-instruction tuning | - | [Code](https://github.com/mar-cry/Ophora) |
 | [EndoGen: Conditional Autoregressive Endoscopic Video Generation](https://doi.org/10.1007/978-3-032-05127-1_17) | MICCAI 2025 | Endoscopic video generation | Conditional autoregressive generation with spatiotemporal grid-frame patterning | - | [Code](https://github.com/CUHK-AIM-Group/EndoGen) |
 | [SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation](https://doi.org/10.1007/978-3-032-05127-1_50) | MICCAI 2025 | Surgical video generation | Object-aware diffusion | - | [Code](https://github.com/DavisMeee/SurgSora) |
-| [Controllable illumination invariant GAN for diverse temporally-consistent surgical video synthesis](https://doi.org/10.1016/j.media.2025.103731) | MIA 2025 | Surgical video synthesis | Illumination-invariant GAN for temporally consistent surgical video synthesis | - | - |
 
 ### 2024
 
 | Title | Venue | Task | Method | Image | Code |
 |---|---|---|---|---|---|
 | [Endora: Video Generation Models as Endoscopy Simulators](https://doi.org/10.1007/978-3-031-72089-5_22) | MICCAI 2024 | Endoscopic surgical video generation | Spatial-temporal video transformer for endoscopy simulation | - | - |
-| [VISAGE: Video Synthesis Using Action Graphs for Surgery](https://doi.org/10.1007/978-3-031-77610-6_14) | MICCAI 2024 Workshops | Laparoscopic surgical video synthesis | Action graph-guided diffusion video synthesis | - | - |
 
 ---
 
