@@ -5,7 +5,7 @@ A curated list of papers on surgical video generation and natural video generati
 This repository mainly collects papers from the following venues:
 
 - Natural video generation: CVPR, ICCV, ECCV, ICLR
-- Medical and surgical video generation: MICCAI, TMI, MIA, T-ASE, TMM, ISBI
+- Medical and surgical video generation: MICCAI, TMI, MIA, T-ASE, TMM, ISBI, Neural Networks, Computer Assisted Surgery
 
 ## Contents
 
@@ -24,6 +24,7 @@ This repository mainly collects papers from the following venues:
 | [ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation](https://doi.org/10.1109/TMI.2026.3678906) | TMI 2026, vol. 45 | Endoscopic video generation | Dynamic consistency and content-aware colonoscopy video generation | - |
 | [H-RSSG: High-Fidelity Robotic Surgical Scene Generation With Implicit Deformable Neural Radiance Field](https://doi.org/10.1109/TASE.2025.3538506) | T-ASE 2026, vol. 23 | Robotic surgical scene generation | Implicit deformable neural radiance field | - |
 | [MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation](https://doi.org/10.1109/TMM.2026.3701199) | TMM 2026, Early Access | Medical video generation | Optical-flow-aligned Mamba diffusion | - |
+| [Open-world surgical video generation via dual-visual diffusion and dual-annealed generation](https://doi.org/10.1016/j.neunet.2025.108281) | Neural Networks 2026, vol. 195 | Open-world surgical video generation | Dual-visual diffusion and dual-annealed generation | - |
 
 ### 2025
 
@@ -34,6 +35,7 @@ This repository mainly collects papers from the following venues:
 | [EndoGen: Conditional Autoregressive Endoscopic Video Generation](https://doi.org/10.1007/978-3-032-05127-1_17) | MICCAI 2025 | Endoscopic video generation | Conditional autoregressive generation with spatiotemporal grid-frame patterning | [Code](https://github.com/CUHK-AIM-Group/EndoGen) |
 | [SurgSora: Object-Aware Diffusion Model for Controllable Surgical Video Generation](https://doi.org/10.1007/978-3-032-05127-1_50) | MICCAI 2025 | Surgical video generation | Object-aware diffusion | [Code](https://github.com/DavisMeee/SurgSora) |
 | [LLAMA-VG: A Video Vision LLaMA-Based Model for Endoscopy Video Generation](https://doi.org/10.1109/ISBI60581.2025.10981310) | ISBI 2025 | Endoscopy video generation | Video Vision LLaMA-based endoscopy video generation | - |
+| [HiEndo: harnessing large-scale data for generating high-resolution laparoscopy videos under a two-stage framework](https://doi.org/10.1080/24699322.2025.2536643) | Computer Assisted Surgery 2025, vol. 30, no. 1 | High-resolution laparoscopy video generation | Two-stage video generation with diffusion transformer and super resolution | - |
 
 ### 2024
 
