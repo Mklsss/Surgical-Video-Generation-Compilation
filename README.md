@@ -21,7 +21,7 @@ This repository mainly collects papers from the following venues:
 
 | Title | Venue | Task | Method | Code |
 |---|---|---|---|---|
-| [ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation](https://doi.org/10.1109/TMI.2026.3678906) | TMI 2026 | Endoscopic video generation | Dynamic consistency and content-aware colonoscopy video generation | - |
+| [ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation](https://doi.org/10.1109/TMI.2026.3678906) | TMI 2026, vol. 45 | Endoscopic video generation | Dynamic consistency and content-aware colonoscopy video generation | - |
 
 ### 2025
 
