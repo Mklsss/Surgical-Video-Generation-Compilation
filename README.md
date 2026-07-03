@@ -314,6 +314,16 @@ This repository mainly collects papers from the following venues:
 | [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_Extrapolating_and_Decoupling_Image-to-Video_Generation_Models_Motion_Modeling_is_Easier_CVPR_2025_paper.html) | CVPR 2025 | Image-to-video generation | Image-conditioned video generation | - |
 | CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | ICLR 2025 | Text-to-video generation | Diffusion transformer | - |
 
+### 2024
+
+| Title | Venue | Task | Method | Code |
+|---|---|---|---|---|
+| [MEVG: Multi-event Video Generation with Text-to-Video Models](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_23) | ECCV 2024 | Multi-event text-to-video generation | Last frame-aware diffusion process with prompt generation | - |
+| [MoVideo: Motion-Aware Video Generation with Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-72784-9_4) | ECCV 2024 | Motion-aware video generation | Motion-aware diffusion model | - |
+| [HARIVO: Harnessing Text-to-Image Models for Video Generation](https://link.springer.com/chapter/10.1007/978-3-031-73668-1_2) | ECCV 2024 | Text-to-video generation | Harnessing text-to-image models for video generation | - |
+| [SignGen: End-to-End Sign Language Video Generation with Latent Diffusion](https://link.springer.com/chapter/10.1007/978-3-031-73668-1_15) | ECCV 2024 | Sign language video generation | End-to-end latent diffusion | - |
+| [Photorealistic Video Generation with Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_23) | ECCV 2024 | Photorealistic video generation | W.A.L.T diffusion transformer | - |
+
 
 ---
 
